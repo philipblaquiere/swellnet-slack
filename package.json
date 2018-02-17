@@ -17,7 +17,7 @@
     "node-flat-db": "^0.2.1"
   },
   "engines": {
-    "node": "8.x"
+    "node": ">=6"
   },
   "repository": {
     "url": "https://github.com/philipblaquiere/swellnet-slack"
@@ -25,7 +25,6 @@
   "license": "MIT",
   "keywords": [
     "node",
-    "glitch",
-    "express"
+    "slack"
   ]
 }
