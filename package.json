@@ -17,14 +17,11 @@
     "node-flat-db": "^0.2.1"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=4.3.2"
   },
   "repository": {
+    "type": "git",
     "url": "https://github.com/philipblaquiere/swellnet-slack"
   },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "slack"
-  ]
+  "license": "MIT"
 }
