@@ -11,7 +11,7 @@
     "cheerio": "^0.22.0",
     "axios": "^0.17.1",
     "underscore": "^1.8.3",
-    "node-flat-db": "^0.2.1"
+    "lowdb": "^1.0.0"
   },
   "engines": {
     "node": ">=4.3.2"

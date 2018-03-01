@@ -1,10 +1,4 @@
 {
-  "posts": [
-    {
-      "title": "node-flat-db is awesome"
-    },
-    {
-      "title": "node-flat-db is awesome"
-    }
+  "users": [
   ]
 }
